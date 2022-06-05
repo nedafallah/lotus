@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="24.709">
+    <defs>
+        <style>
+            .cls-1{fill:#919399}
+        </style>
+    </defs>
+    <g id="Group_1076" data-name="Group 1076" transform="translate(-30 -29)">
+        <g id="notifications" transform="translate(25.512 31.041)">
+            <path id="Path_1491" data-name="Path 1491" class="cls-1" d="m21.636 16.347-.223-.27c-1-1.213-1.609-1.945-1.609-5.378a6.964 6.964 0 0 0-1.263-4.33 5.942 5.942 0 0 0-2.555-1.874.137.137 0 0 1-.038-.03 2.911 2.911 0 0 0-2.7-2.214 2.912 2.912 0 0 0-2.7 2.213.143.143 0 0 1-.037.03C7.938 5.551 6.689 7.58 6.689 10.7c0 3.435-.605 4.167-1.609 5.378l-.223.27a1.6 1.6 0 0 0-.212 1.714 1.7 1.7 0 0 0 1.565.96h14.077a1.7 1.7 0 0 0 1.558-.957 1.6 1.6 0 0 0-.21-1.716z"/>
+            <path id="Path_1492" data-name="Path 1492" class="cls-1" d="M16.246 32.563a3.649 3.649 0 0 0 3.21-1.92.182.182 0 0 0-.161-.268H13.2a.182.182 0 0 0-.162.268 3.649 3.649 0 0 0 3.208 1.92z" transform="translate(-3 -9.895)"/>
+        </g>
+        <g id="Ellipse_281" data-name="Ellipse 281" transform="translate(41 31)" style="fill:#e50e0e;stroke:#fff;stroke-width:2px">
+            <circle cx="4" cy="4" r="4" style="stroke:none"/>
+            <circle cx="4" cy="4" r="5" style="fill:none"/>
+        </g>
+    </g>
+</svg>
